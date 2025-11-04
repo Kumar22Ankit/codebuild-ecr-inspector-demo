@@ -1,5 +1,5 @@
 
-**🚀 codebuild-ecr-inspector-demo**
+**🚀 Codebuild-ECR-Inspector-Demo**
 
 This project demonstrates how to **automate container image scanning** in AWS using **CodeBuild**, **Amazon ECR**, and **Amazon Inspector**.  
 It shows how to integrate vulnerability scanning into a CI/CD pipeline to improve container security.
@@ -109,10 +109,14 @@ aws inspector2 disable --resource-types ECR
 | **ECR**              | Stores container images          |
 | **Amazon Inspector** | Scans images for vulnerabilities |
 
----
 
-**Author:** 
-Ankit Kumar 
 
-*DevOps & Cloud Engineer*
-```
+## 🧑‍💻 Author
+
+**Ankit Kumar** : 
+DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD
+
+## 📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
